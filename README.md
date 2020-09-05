@@ -1,1 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Drum pad machine
+ 
+Basic drum machine functions you can play with drums at any time and be a rockstar!
+
+## Demo 
+
+[Drum machine](https://drum-machine-2f986.web.app/)
