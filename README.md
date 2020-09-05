@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## React Drum Machine
 
 Basic drum machine functions you can play with drums at any time and be a rockstar!
@@ -27,3 +28,12 @@ $ npm run start
 ## Demo
 
 [Drum Machine](https://drum-machine-2f986.web.app/)
+=======
+## Drum pad machine
+ 
+Basic drum machine functions you can play with drums at any time and be a rockstar!
+
+## Demo 
+
+[Drum machine](https://drum-machine-2f986.web.app/)
+>>>>>>> e582bdcb1b695741a5dc9933896652ec489d8955
